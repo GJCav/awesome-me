@@ -29,3 +29,12 @@ Other awesome repo: [Other](https://github.com/stars/GJCav/lists/readnetwork)
 
 * [SharpWxDump](https://github.com/AdminTest0/SharpWxDump): find the wechatkey on the local PC
 
+
+
+## Python
+
+* Rich: https://github.com/Textualize/rich
+  
+  Display pretty content in console, such as a table, a tree, a layout and etc.
+
+
