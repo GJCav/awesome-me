@@ -36,5 +36,10 @@ Other awesome repo: [Other](https://github.com/stars/GJCav/lists/readnetwork)
 * Rich: https://github.com/Textualize/rich
   
   Display pretty content in console, such as a table, a tree, a layout and etc.
+  
+* ETE Toolkit: http://etetoolkit.org/
+
+  Plot trees in python, or, use a really simple [online tools](http://mshang.ca/syntree/)
+  
 
 
