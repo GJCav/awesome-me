@@ -41,5 +41,16 @@ Other awesome repo: [Other](https://github.com/stars/GJCav/lists/readnetwork)
 
   Plot trees in python, or, use a really simple [online tools](http://mshang.ca/syntree/)
   
+### 3D Meshes Processing & Visualization
 
+**Processing**
+
+* [PyVista](https://github.com/pyvista/pyvista): A easy-to-use wrapper on [vtk](https://vtk.org/) that enables fast visualization, which is an open source software for manipulating and displaying scientific data.
+  * [fast-simplication](https://github.com/pyvista/fast-simplification): Fast Quadratic Mesh Simplification provided by PyVista.
+* [Trimesh](https://trimesh.org/): A pure Python library for loading and using triangular meshes with an emphasis on watertight surfaces. It provides lots of handy functions. To convert a Trimesh mesh into pyvista, use [pyvista.wrap](https://docs.pyvista.org/api/utilities/_autosummary/pyvista.wrap.html).
+* [Pytorch3d](https://pytorch3d.org/): Added here because of its popularity that many CG/CV research papers uses `Pytorch3d` to render the algorithm output. 
+
+**Visualization**
+
+* [ParaView](https://www.paraview.org/): Though most 3D mesh processing libraries have the ability of visualization, they require boilerplate codes, even with which, the user interaction is far from intuitive. So, I recommend to export processing results as vtk files, and then visualize them with ParaView.
 
